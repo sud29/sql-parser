@@ -1,0 +1,1 @@
+Project for parsing, validating SQL queries and creating an in-memory structure of the tokens..
